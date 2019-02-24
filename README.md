@@ -2,6 +2,12 @@
 
 Basic L2, L3 and L4 Packet sniffer
 
+Usage:
+```
+python sniffer_v1.py
+python sniffer_v2.py
+```
+
 ### Version 2
 
 Changes over Version 1:-
